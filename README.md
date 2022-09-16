@@ -54,6 +54,7 @@ http://127.0.0.1:3000/api/doc
 
 ## Getting with Curl Organizations
 
+
 ```bash
     $ curl -H 'content-type: application/json' -v -X GET http://127.0.0.1:3000/api/organizations  
     $ curl -H 'content-type: application/json' -v -X GET http://127.0.0.1:3000/api/organizations/:id 
